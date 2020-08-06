@@ -1,0 +1,20 @@
+C:\Users\kappa\Desktop\DVD_Lib\DVD_Lib\bin\Debug\DVD_Lib.dll
+C:\Users\kappa\Desktop\DVD_Lib\DVD_Lib\bin\Debug\DVD_Lib.pdb
+C:\Users\kappa\Desktop\DVD_Lib\DVD_Lib\obj\Debug\DVD_Lib.csprojResolveAssemblyReference.cache
+C:\Users\kappa\Desktop\DVD_Lib\DVD_Lib\obj\Debug\DVD_Lib.csproj.CoreCompileInputs.cache
+C:\Users\kappa\Desktop\DVD_Lib\DVD_Lib\obj\Debug\DVD_Lib.dll
+C:\Users\kappa\Desktop\DVD_Lib\DVD_Lib\obj\Debug\DVD_Lib.pdb
+C:\Users\kappa\Desktop\DVD_Lib\DVD_Lib\bin\Debug\Google.Protobuf.dll
+C:\Users\kappa\Desktop\DVD_Lib\DVD_Lib\bin\Debug\MySql.Data.dll
+C:\Users\kappa\Desktop\DVD_Lib\DVD_Lib\bin\Debug\Google.Protobuf.xml
+C:\Users\kappa\Desktop\DVD_Lib\DVD_Lib\bin\Debug\MySql.Data.xml
+C:\Shawn IT607 src\DVD_Lib\DVD_Lib\bin\Debug\DVD_Lib.dll
+C:\Shawn IT607 src\DVD_Lib\DVD_Lib\bin\Debug\DVD_Lib.pdb
+C:\Shawn IT607 src\DVD_Lib\DVD_Lib\bin\Debug\Google.Protobuf.dll
+C:\Shawn IT607 src\DVD_Lib\DVD_Lib\bin\Debug\MySql.Data.dll
+C:\Shawn IT607 src\DVD_Lib\DVD_Lib\bin\Debug\Google.Protobuf.xml
+C:\Shawn IT607 src\DVD_Lib\DVD_Lib\bin\Debug\MySql.Data.xml
+C:\Shawn IT607 src\DVD_Lib\DVD_Lib\obj\Debug\DVD_Lib.csprojResolveAssemblyReference.cache
+C:\Shawn IT607 src\DVD_Lib\DVD_Lib\obj\Debug\DVD_Lib.csproj.CoreCompileInputs.cache
+C:\Shawn IT607 src\DVD_Lib\DVD_Lib\obj\Debug\DVD_Lib.dll
+C:\Shawn IT607 src\DVD_Lib\DVD_Lib\obj\Debug\DVD_Lib.pdb
